@@ -74,13 +74,13 @@ The dataset contains:
 
 ## 📉 Histogram
 
-![Histogram](05_outputs/histogram.png)
+![Histogram](05_outputs/histogram_plot.png)
 
 ---
 
 ## 🥧 Pie Chart
 
-![Pie Chart](05_outputs/pie_chart.png)
+![Pie Chat](05_outputs/pie_chat.png)
 
 ---
 
