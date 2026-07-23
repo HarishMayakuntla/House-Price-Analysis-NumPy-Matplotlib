@@ -55,7 +55,7 @@ The dataset contains:
 
 ## 📈 Line Chart
 
-![Line Chart](05_utputs/line_chart.png)
+![Line Chart](05_outputs/line_chart.png)
 
 
 ---
