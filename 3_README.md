@@ -53,11 +53,34 @@ The dataset contains:
 
 ## 📷 Output Graphs
 
-- Line Chart
-- Bar Chart
-- Scatter Plot
-- Histogram
-- Pie Chart
+## 📈 Line Chart
+
+![Line Chart](outputs/line_chart.png)
+
+
+---
+
+## 📊 Bar Chart
+
+![Bar Chart](outputs/bar_chart.png)
+
+---
+
+## 🔵 Scatter Plot
+
+![Scatter Plot](outputs/scatter_plot.png)
+
+---
+
+## 📉 Histogram
+
+![Histogram](outputs/histogram.png)
+
+---
+
+## 🥧 Pie Chart
+
+![Pie Chart](outputs/pie_chart.png)
 
 ---
 
