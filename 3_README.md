@@ -97,20 +97,8 @@ pip install -r requirements.txt
 ```
 House_Price_Analysis.ipynb
 ```
-
 ---
 
-
-
-## Project Preview
-
-![Preview](06_project_preview/house_price_analysis_using_np_mtp.ipynb)
-
-
-
-
-
----
 ## 📈 Learning Outcomes
 
 - CSV file handling using NumPy
