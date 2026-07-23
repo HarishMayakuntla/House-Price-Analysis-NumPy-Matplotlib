@@ -80,7 +80,7 @@ The dataset contains:
 
 ## 🥧 Pie Chart
 
-![Pie Chart](05-outputs/pie_chart.png)
+![Pie Chart](05_outputs/pie_chart.png)
 
 ---
 
